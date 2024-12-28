@@ -1,0 +1,2 @@
+# TypeError: unsupported operand type(s) for +: 'int' and 'str'
+This repository contains a simple Python program that demonstrates a common type error: attempting to add an integer and a string.  The bug and solution are provided in separate files.
